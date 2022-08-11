@@ -1,6 +1,6 @@
 import com.eugenehk.chess.Chess;
 
-public class driver {
+public class Driver {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         byte value = 25;
