@@ -1,4 +1,4 @@
-import com.eugenehk.chess.Chess;
+import com.eugenehk.chess.IChess;
 
 public class Driver {
     public static void main(String[] args) {
